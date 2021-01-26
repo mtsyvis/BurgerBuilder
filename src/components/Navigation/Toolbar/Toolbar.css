@@ -21,3 +21,10 @@
     height: 80%;
 }
 
+/* for mobile devices */
+@media (max-width: 499px) {
+    .DesktopOnly {
+        display: none;
+    }
+}
+
